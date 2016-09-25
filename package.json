@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "name": "demo-nwJs",
+  "window": {
+    "show": true,
+    "frame": true,
+    "icon": "ico.png",
+    "toolbar": false,
+    "width": 430,
+    "height": 450,
+    "resizable": false,
+    "position": "center",
+    "title": "demo-nwJs"
+  },
+  "scripts": {
+    "start": "nw ."
+  },
+  "contributors": {
+     "name": "何海洋",
+     "email": "hehaiyangwork@qq.com"
+   }
+}
